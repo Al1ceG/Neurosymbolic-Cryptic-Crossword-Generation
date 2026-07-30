@@ -1,0 +1,61 @@
+clue_text,wordplay,definition,answer,pattern,num_chars,num_words,clue_type,perplexity,thematic_fit,semantic_distance,polysemy,llm_wit,llm_uniqueness,llm_fairness,llm_surface_read,llm_overall,status
+Get pay from study after dropping leader,from study after dropping leader,Get pay,EARN,4,40,7,deletion,17994.26953125,0.3440859913825989,0.7930530309677124,17.0,6,7,9,8,7,successful
+Cook: chief with no one,: chief with no one,Cook,CHEF,4,23,5,deletion,1186.64697265625,0.2922305464744568,0.7587443590164185,6.5,5,6,8,7,6,successful
+Missile from headless marrow,from headless marrow,Missile,ARROW,5,28,4,deletion,9131.375,0.2545938193798065,0.8707898855209351,3.0,6,7,9,8,7,successful
+Mark from headless award,from headless award,Mark,SCAR,4,24,4,deletion,4081.171630859375,0.3160649538040161,0.7913380861282349,12.333333333333334,5,6,8,6,6,successful
+Floor layer dismissing artist from trailer,dismissing artist from trailer,floor layer,TILER,5,42,6,deletion,24547.658203125,0.2804422974586487,0.9177759885787964,5.8,6,7,8,5,6,successful
+"Make happy, relate not starting",", relate not starting",Make happy,ELATE,5,31,5,deletion,13420.7412109375,0.0,0.8480549454689026,16.6,7,6,5,8,6,successful
+Journalist when creditor drops credit,when creditor drops credit,Journalist,EDITOR,6,37,5,deletion,9374.2109375,0.17290012538433075,0.9713590145111084,12.0,7,6,8,8,7,successful
+Precipitation from headless thinker (4),from headless thinker (4),Precipitation,RAIN,4,39,5,deletion,587.6192016601562,0.24562601745128632,0.8825230598449707,3.3333333333333335,6,7,8,7,7,successful
+Scope from decapitated orange,from decapitated orange,scope,RANGE,5,29,4,deletion,4024.057373046875,0.22518372535705566,0.8732976317405701,3.6666666666666665,6,7,8,5,6,successful
+Drink from beheaded tale,from beheaded tale,Drink,ALE,3,24,4,deletion,4112.17236328125,0.2929444909095764,0.8607900738716125,4.666666666666667,7,6,9,8,7,successful
+Some came near: so be it,Some came near:,so be it,AMEN,4,24,6,hidden,651.5579223632812,0.2961941063404083,0.854832112789154,10.333333333333334,7,6,8,8,7,successful
+Flower part found in cap is tilted,found in cap is tilted,Flower part,PISTIL,6,34,7,hidden,3042.02880859375,0.269231379032135,0.8661330938339233,11.571428571428571,8,7,9,6,7,successful
+Bird seen in new rent rises,seen in new rent rises,Bird,WREN,4,27,6,hidden,5646.34326171875,0.2903539836406708,0.9224249720573425,14.333333333333334,6,7,8,5,6,successful
+Bird concealed in split item,concealed in split item,Bird,TIT,3,28,5,hidden,20400.5859375,0.28838053345680237,0.9550996422767639,7.8,6,5,8,7,6,successful
+Box found in crisp arrangements,found in crisp arrangements,Box,SPAR,4,31,5,hidden,9487.26171875,0.246351957321167,0.8575674295425415,10.6,7,6,8,5,6,successful
+Fish concealed in free electricity,concealed in free electricity,Fish,EEL,3,34,5,hidden,13333.900390625,0.23657989501953125,0.8771042823791504,8.0,7,8,9,6,7,successful
+Slippery fish found in freely elected,found in freely elected,Slippery fish,EEL,3,37,6,hidden,19168.65234375,0.3066568374633789,0.8053522706031799,6.5,6,7,9,8,7,successful
+Journalist found in credit order,found in credit order,Journalist,EDITOR,6,32,5,hidden,2222.287109375,0.28709179162979126,0.8757144808769226,12.8,6,7,9,8,7,successful
+Peace hidden in local market,hidden in local market,peace,CALM,4,28,5,hidden,2823.193359375,0.32277238368988037,0.8719872236251831,6.4,5,6,8,7,6,successful
+Bird found in other onlookers,found in other onlookers,Bird,HERON,5,29,5,hidden,1171.77685546875,0.2286263257265091,0.7159790396690369,7.2,6,7,9,8,7,successful
+"Made of clay, hearten wildly",", hearten wildly",Made of clay,EARTHEN,7,28,5,anagram,3033.14111328125,0.28906601667404175,0.607073962688446,15.0,7,6,8,5,6,successful
+Lawmaker: treason recast,: treason recast,Lawmaker,SENATOR,7,24,3,anagram,4035.236572265625,0.2701992988586426,0.6648201942443848,2.3333333333333335,7,8,9,6,7,successful
+"Politician, treason reformed",", treason reformed",Politician,SENATOR,7,28,3,anagram,31627.22265625,0.3368139863014221,0.6498801112174988,5.0,5,6,8,7,6,successful
+Connection: Oriental reformed,: Oriental reformed,Connection,RELATION,8,29,3,anagram,129053.03125,0.18929526209831238,0.8175919055938721,6.666666666666667,5,6,8,7,6,successful
+Law-maker forged from treason,forged from treason,Law-maker,SENATOR,7,29,4,anagram,5380.0458984375,0.23566989600658417,0.6741421222686768,5.5,7,8,8,6,7,successful
+Politician reforms treason,reforms treason,Politician,SENATOR,7,26,3,anagram,394372.34375,0.30593323707580566,0.5979028344154358,5.0,7,6,8,5,6,successful
+Crime from disordered senator,from disordered senator,Crime,TREASON,7,29,4,anagram,7373.70751953125,0.26181748509407043,0.5501000881195068,2.6666666666666665,6,7,8,8,7,successful
+"Made of clay, hearten confused",", hearten confused",Made of clay,EARTHEN,7,30,5,anagram,2405.693603515625,0.2745223939418793,0.5459732413291931,15.5,6,7,8,5,6,successful
+"Detailed a late robe, redesigned","a late robe, redesigned",Detailed,ELABORATE,9,32,5,anagram,4417.65771484375,0.23791515827178955,0.9209094643592834,6.0,6,7,8,8,7,successful
+Quick to go without food?,to go without food?,quick,FAST,4,25,5,double_definition,318.33673095703125,0.2838004231452942,0.7422008514404297,15.333333333333334,8,7,7,6,7,successful
+Stumble on journey,on journey,stumble,TRIP,4,18,3,double_definition,36729.984375,0.23260533809661865,0.421228289604187,4.666666666666667,6,7,8,8,7,successful
+Line or argument?,Line or ?,argument,ROW,3,17,3,double_definition,3302.931640625,0.0,0.666994035243988,15.0,7,6,9,8,7,successful
+Excellent penalty?,penalty?,excellent,FINE,4,18,2,double_definition,33966.8984375,0.1977367401123047,0.8370820879936218,2.5,6,7,7,5,6,successful
+Excellent penalty,penalty,excellent,FINE,4,17,2,double_definition,5509755.5,0.1977367401123047,0.7764919996261597,2.5,7,6,6,8,6,successful
+Story thread,thread,story,YARN,4,12,2,double_definition,423314.46875,0.3057917058467865,0.6199923753738403,7.5,6,7,8,5,6,successful
+Foliage departs,departs,foliage,LEAVES,6,15,2,double_definition,3545.51611328125,0.3031419813632965,0.5772944688796997,4.0,6,5,6,4,5,successful
+"Quit, sign again?",", sign again?",quit,RESIGN,6,17,3,double_definition,770.0348510742188,0.0,0.7462944388389587,8.666666666666666,8,7,8,9,8,successful
+Line of argument?,of argument?,line,ROW,3,17,3,double_definition,1714.207763671875,0.36648043990135193,0.824947714805603,21.5,7,6,9,8,7,successful
+Complain about game bird?,about game bird?,complain,GROUSE,6,25,4,double_definition,5929.86962890625,0.31191226840019226,0.6608774662017822,7.5,8,7,8,6,7,successful
+Note a nation nursing not,a nation nursing not,note,ANNOTATION,10,25,5,container,6155.3076171875,0.2843872904777527,0.9344339966773987,6.6,6,7,7,8,7,successful
+Place to sit: street embraces headless sea,: street embraces headless sea,place to sit,SEAT,4,42,7,container,4614.9599609375,0.2794182598590851,0.8605144023895264,9.666666666666666,7,8,9,6,7,successful
+Jumper we tucked into start of supper with water losing head,we tucked into start of supper with water losing head,Jumper,SWEATER,7,60,11,container,6310.05029296875,0.2942873239517212,0.8004792928695679,14.571428571428571,8,7,7,8,7,successful
+Restore fashionable kept by repeat,fashionable kept by repeat,Restore,REINSTATE,9,34,5,container,35936.53125,0.282980740070343,0.763076663017273,8.4,6,7,7,8,7,successful
+Cabin — gallery in south chamber,— gallery in south chamber,Cabin,STATEROOM,9,32,6,container,16634.822265625,0.31497451663017273,0.5874607563018799,6.2,5,6,8,7,6,successful
+MP in ale gives plenty,MP in ale gives,plenty,AMPLE,5,22,5,container,8797.9453125,0.3022659718990326,0.8629213571548462,11.6,6,7,9,8,7,successful
+Banger as America occupies sage,as America occupies sage,Banger,SAUSAGE,7,31,5,container,40939.36328125,0.21436789631843567,1.0156700611114502,5.4,7,8,9,6,7,successful
+Broke when sun enters make up,when sun enters make up,Broke,INSOLVENT,9,29,6,container,4573.3681640625,0.2719312310218811,0.9413326978683472,31.2,8,7,9,6,7,successful
+Nonsense about trap holding lap,about trap holding lap,nonsense,CLAPTRAP,8,31,5,container,45181.453125,0.3002234101295471,0.9127933979034424,15.8,7,8,8,6,7,successful
+"Tool user, pen in carrier",", pen in carrier",Tool user,CARPENTER,9,25,5,container,3907.0517578125,0.3631330132484436,0.8489148616790771,7.0,5,6,8,7,6,successful
+PM when back hesitation meets twelve,when back hesitation meets twelve,PM,AFTERNOON,9,36,6,charade,76388.0703125,0.2918066084384918,0.8250702619552612,10.4,6,7,8,5,6,successful
+Lingering flavour following next to savour,following next to savour,lingering flavour,AFTERTASTE,10,42,6,charade,1863.7607421875,0.2957404851913452,0.8121719360351562,8.4,6,7,8,8,7,successful
+Travel document: ticket with harbour,: ticket with harbour,travel document,PASSPORT,8,36,5,charade,17189.568359375,0.23612278699874878,0.7406455874443054,7.0,5,6,8,7,6,successful
+Promontory leader with country,leader with country,promontory,HEADLAND,8,30,4,charade,2687.62548828125,0.264381468296051,0.681145429611206,2.6666666666666665,5,6,8,7,6,successful
+"Abroad, ring with poem like",", ring with poem like",abroad,OVERSEAS,8,27,5,charade,4841.8408203125,0.2952021658420563,0.8419849276542664,7.75,6,7,8,7,7,successful
+Lingering flavour following try,following try,lingering flavour,AFTERTASTE,10,31,4,charade,13313.6591796875,0.27412399649620056,0.8808605074882507,10.75,6,7,9,8,7,successful
+Coast with water support,with water support,Coast,SEASHORE,8,24,4,charade,5604.251953125,0.35359692573547363,0.7920246720314026,12.333333333333334,5,6,8,7,6,successful
+Warn in advance: in front next to alert,: in front next to alert,Warn in advance,FOREWARN,8,39,8,charade,1487.404052734375,0.3707898259162903,0.7436027526855469,8.857142857142858,6,7,9,8,7,successful
+Ocean floor: body of water with layer,: body of water with layer, Ocean floor, SEABED,6,37,7,charade,712.89013671875,0.33239486813545227,0.6167967319488525,8.4,6,8,9,7,7,successful
+Get a quire reorganised,a quire reorganised,Get,ACQUIRE,7,23,4,anagram,2216.1220703125,0.21081028878688812,0.7762212753295898,11.75,5,6,8,7,6,failed
+Reference made from measure and memo,made from measure and memo,reference,FOOTNOTE,8,36,6,charade,5213.4052734375,0.22612208127975464,0.9137179255485535,19.0,5,6,7,7,6,failed

@@ -1,0 +1,61 @@
+clue_text,wordplay,definition,answer,pattern,num_chars,num_words,clue_type,perplexity,thematic_fit,semantic_distance,polysemy,llm_wit,llm_uniqueness,llm_fairness,llm_surface_read,llm_overall
+Artist repaint mixed,repaint,Artist,PAINTER,7,20,3,anagram,18962.97265625,0.24143186211585999,0.4131844639778137,4.0,7,6,8,8,7
+Silent ER mixed for radio audience member,Silent ER mixed,radio audience member,LISTENER,8,41,7,anagram,6316.041015625,0.3249700665473938,0.6562305688858032,5.166666666666667,8,7,8,6,7
+"Pay attention, silent mixed",silent mixed,pay attention,LISTEN,6,27,4,anagram,9591.0966796875,0.2792530357837677,0.6175652146339417,8.0,6,7,9,8,7
+Work out price hed scrambled,price hed,work out,DECIPHER,8,28,5,anagram,225370.59375,0.29476940631866455,0.8490217924118042,12.166666666666666,5,6,8,7,6
+Confused to read is space rock,to read is,space rock,ASTEROID,8,30,6,anagram,984.5096435546875,0.33951902389526367,0.8407649993896484,10.0,6,7,7,5,6
+Lost when dear stay mixed,dear stay mixed,Lost,ASTRAYED,8,25,5,anagram,35596.22265625,0.1822369396686554,0.7494290471076965,10.75,7,8,9,6,7
+Silent movement heard,silent movement,heard,LISTEN,6,21,3,anagram,7724.18212890625,0.24043409526348114,0.7755242586135864,7.333333333333333,7,6,8,5,6
+Die star spinning with legs apart,die star,with legs apart,ASTRIDE,6,33,6,anagram,6387.7744140625,0.2792370021343231,0.8430814743041992,11.2,8,7,7,6,7
+Road site smashed space rock,road site smashed,space rock,ASTEROID,8,28,5,anagram,36580.16015625,0.31730037927627563,0.8207892775535583,8.2,6,7,8,7,7
+Pay attention when silent mixed,silent mixed,pay attention,LISTEN,6,31,5,anagram,22302.9453125,0.27797144651412964,0.6175652146339417,8.0,8,7,9,6,7
+Remark negative note,negative note,Remark,NOTE,4,20,3,charade,21267.640625,0.4358976483345032,0.33740508556365967,9.666666666666666,5,6,8,7,6
+Record volume makes journal,record volume,journal,NOTEBOOK,8,27,4,charade,83842.3671875,0.2530041038990021,0.8848437666893005,18.75,7,6,8,8,7
+Star drop makes evening,star drop,evening,SUNSET,6,23,4,charade,90925.703125,0.23400183022022247,0.6582815051078796,25.25,7,6,8,8,7
+Star put to rest creates evening glow,star put to rest,evening glow,SUNSET,6,37,7,charade,6232.55810546875,0.29490023851394653,0.6998018026351929,10.666666666666666,7,8,8,6,7
+Drink made from bitter end of orange,bitter + end of orange,Drink,ALEO,4,36,7,charade,1242.87158203125,0.3371359705924988,0.7337461709976196,19.4,5,6,8,7,6
+Light note followed by politician,note followed by politician,Light,LAMP,4,33,5,charade,12101.6640625,0.2848111391067505,0.8095961809158325,17.8,5,6,8,7,6
+Bird seen when river meets road,river meets road,Bird,TERN,4,31,6,charade,4505.57421875,0.3143657445907593,0.872390866279602,9.8,6,7,9,8,7
+Chair by ocean initially,ocean initially,Chair,SEAT,4,24,4,charade,40314.921875,0.19823601841926575,0.8364415168762207,3.0,5,6,8,7,6
+Animal turned on by Chinese unit,turned on by Chinese unit,Animal,LION,4,32,6,charade,2673.33056640625,0.24783307313919067,0.8324788808822632,9.5,5,6,8,7,6
+Light from left power,left power,Light,LAMP,4,21,4,charade,3123.644775390625,0.29883140325546265,0.7698677778244019,27.0,6,7,8,5,6
+Play with rent in pork,rent in pork,Play,HAMLET,6,22,5,container,6033.0244140625,0.24897661805152893,0.8377426862716675,17.5,7,6,8,5,6
+Record with sound kept in volume,sound kept in volume,Record,NOTEBOOK,8,32,6,container,1619.931396484375,0.3139400780200958,0.9497604966163635,15.0,8,7,9,6,7
+Guard holding revolutionary energy creates a commotion,Guard holding revolutionary energy,a commotion,UPROAR,7,54,7,container,3936.294677734375,0.22883257269859314,0.8479181528091431,12.428571428571429,8,7,8,9,8
+Prison holding endless cash reserve,Prison holding endless cash,reserve,STASH,6,35,5,container,21657.076171875,0.3626919984817505,0.7042944431304932,13.2,5,6,8,7,6
+Container US held by cap and ale,US held by cap and ale,Container,CAPSULE,7,32,7,container,12951.59375,0.22701768577098846,0.8041520118713379,10.666666666666666,7,6,8,5,6
+Neckwear with car in soft fabric?,car in soft fabric,Neckwear,SCARF,5,33,6,container,2902.87890625,0.3231901228427887,0.7396881580352783,7.0,8,7,8,6,7
+Singer holds quiet note,Singer holds quiet,note,CAROL,5,23,4,container,37528.21484375,0.3138069808483124,0.8070107698440552,18.5,6,7,8,8,7
+Case around nothing to contain,case around nothing,contain,ENCASE,6,30,5,container,3990.13818359375,0.25032466650009155,0.557854950428009,10.0,7,6,8,5,6
+Doctor put in charge of the heart?,Doctor put in charge,of the heart?,CARDIO,6,34,7,container,175.82302856445312,0.31627166271209717,0.8457929491996765,14.8,8,7,8,9,8
+Doctor enclosing patient finds relief (7),doctor enclosing patient,finds relief,THERAPY,7,41,6,container,1866.52587890625,0.2416052669286728,0.7104475498199463,8.6,7,6,9,8,7
+Beer ingredient when metal loses energy,metal loses energy,beer ingredient,MALT,4,39,6,deletion,20967.310546875,0.3116268813610077,1.0060091018676758,5.2,6,7,8,8,7
+Big cat from short million?,short million?,big cat,LION,4,27,5,deletion,11621.7861328125,0.3126359283924103,0.8285661935806274,13.25,6,7,9,8,7
+Rage in danger without D,danger without D,Rage,ANGER,5,24,5,deletion,2677.963134765625,0.35433149337768555,0.8091636896133423,5.75,6,7,9,8,7
+Big cat from short million?,short million?,big cat,LION,4,27,5,deletion,11621.7861328125,0.3126359283924103,0.8285661935806274,13.25,7,8,9,6,7
+Sound quality from stone losing head,stone losing head,sound quality,TONE,4,36,6,deletion,24418.14453125,0.392223596572876,0.7016475200653076,20.0,7,6,7,8,7
+Make angry by cutting head off complaint,cutting head off complaint,Make angry,RILE,4,40,7,deletion,4959.640625,0.24214231967926025,0.9710515141487122,26.0,6,7,8,5,6
+Sound quality of short stone?,short stone?,sound quality,TONE,4,29,5,deletion,8329.6162109375,0.339822381734848,0.7089630365371704,17.5,6,7,9,8,7
+Anger from barrage without its head,barrage without its head,Anger,RAGE,4,35,6,deletion,4072.113037109375,0.3060503602027893,0.750793993473053,12.75,6,7,9,8,7
+Single clone without its head,clone without its head,Single,LONE,4,29,5,deletion,9451.6982421875,0.29148679971694946,0.7494943737983704,14.25,6,7,9,8,7
+Hide small part of tree?,small part of tree?,hide,BARK,3,24,5,deletion,794.8603515625,0.2923203408718109,0.6761111617088318,11.0,5,6,8,7,6
+Close marine mammal,marine mammal,close,SEAL,4,19,3,double_definition,14338.650390625,0.2667517066001892,0.7496954202651978,15.0,5,6,7,8,6
+Close animal,animal,close,SEAL,4,12,2,double_definition,741625.5,0.2961992025375366,0.6892060041427612,19.5,5,4,7,6,5
+Close marine mammal,marine mammal,close,SEAL,4,19,3,double_definition,14338.650390625,0.2667517066001892,0.7496954202651978,15.0,4,5,6,6,5
+Rely on river edge,river edge,rely on,BANK,4,18,4,double_definition,4474.57666015625,0.2839433550834656,0.6358349323272705,4.25,6,7,8,8,7
+Crack performer,crack,performer,STAR,4,15,2,double_definition,122962.890625,0.16655868291854858,0.7512829303741455,12.5,5,6,8,7,6
+Strike or appeal,appeal,strike,HIT,4,16,3,double_definition,12655.2509765625,0.0,0.6746928691864014,12.666666666666666,5,6,6,7,6
+Fast runner or meat,meat,fast runner,HARE,3,19,4,double_definition,34477.29296875,0.41284382343292236,0.6132792830467224,7.5,5,6,8,7,6
+Fastener or upper part of a shoe,fastener // upper part of a shoe,fastener // upper part of a shoe,LACE,3,32,7,double_definition,479.5735778808594,0.35873833298683167,0.5672860145568848,6.666666666666667,5,6,8,7,6
+Fastener or quiet,quiet,fastener,ZIP,3,17,3,double_definition,12010.9814453125,0.0,0.7244561314582825,5.666666666666667,4,5,7,6,5
+Banking spot for fish,double definition,banking spot // fish gathering,POOL,4,21,4,double_definition,6895.73486328125,0.2281225323677063,0.9163129329681396,12.0,6,7,8,8,7
+Fail found in collapsed engine,found in collapsed engine,Fail,LAPSE,5,30,5,hidden,3303.2216796875,0.302718847990036,0.804527997970581,10.2,6,7,8,7,7
+Rock concealed in capstone ending,concealed in capstone ending,rock,STONE,5,33,5,hidden,6970.4619140625,0.19961205124855042,0.7439427971839905,7.6,6,7,8,6,6
+Mineral concealed in more energy,concealed in more energy,Mineral,ORE,3,32,5,hidden,11936.0625,0.23201216757297516,0.8554674386978149,4.8,5,6,8,7,6
+Rock concealed in capstone example,concealed in capstone example,Rock,STONE,5,34,5,hidden,4823.56201171875,0.19961205124855042,0.7914305329322815,5.2,6,7,8,5,6
+Fish lurking in steel edge,lurking in steel edge,Fish,EEL,3,26,5,hidden,30065.46484375,0.2826739251613617,0.6954056024551392,6.2,6,7,8,5,6
+Big cat found in millionaire party,found in millionaire party,Big cat,LION,4,34,6,hidden,5925.6748046875,0.3111639618873596,0.8263589143753052,9.833333333333334,6,7,9,8,7
+Tree found within travel market,found within travel market,tree,ELM,3,31,5,hidden,14298.041015625,0.2606712877750397,0.8117406964302063,8.8,6,7,9,8,7
+Beast within military onslaught,within military onslaught,Beast,LION,4,31,4,hidden,82285.03125,0.270494282245636,0.7875121831893921,2.5,5,6,8,7,6
+Insect lurking in plantation,lurking in plantation,Insect,ANT,3,28,4,hidden,18597.099609375,0.27524733543395996,0.7530681490898132,3.75,5,6,7,8,6
+Judge concealed by corporate reorganisation,concealed by corporate reorganisation,judge,RATE,4,43,5,hidden,4964.71337890625,0.2176547646522522,1.0476490259170532,3.2,6,7,8,8,7

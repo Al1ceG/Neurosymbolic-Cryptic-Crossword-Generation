@@ -1,0 +1,61 @@
+clue_text,wordplay,definition,answer,pattern,num_chars,num_words,clue_type,perplexity,thematic_fit,semantic_distance,polysemy,llm_wit,llm_uniqueness,llm_fairness,llm_surface_read,llm_overall
+Mob rage about trade restriction,mob rage about,trade restriction,EMBARGO,7,32,5,anagram,30272.15625,0.2245550900697708,0.7782654762268066,7.0,8,7,8,6,7
+Miss target time as eel proves slippery,eel proves slippery,miss target time,OVERSLEEP,9,39,7,anagram,12142.16015625,0.27352774143218994,0.9134261012077332,8.0,7,8,7,6,7
+"Moving up into sport, one seeing opening",moving up into sport,one seeing opening,OPPORTUNIST,11,40,7,anagram,2323.77978515625,0.3578321635723114,0.8639503121376038,17.166666666666668,6,7,8,7,7
+"Celebrities are pointless, I suspect","are pointless, I suspect",celebrities,PERSONALITIES,13,36,5,anagram,460.95208740234375,0.426150381565094,0.7920606136322021,5.6,8,7,7,6,7
+Tilts toes awkwardly in these?,tilts toes awkwardly,tilts toes awkwardly in these,STILETTOS,9,30,5,anagram,21326.154296875,0.2858240604400635,0.660713791847229,6.5,8,7,8,9,8
+"Manufactured clash, yet in a restrained way","manufactured clash, yet",in a restrained way,CHASTELY,8,43,7,anagram,1100.949951171875,0.25723549723625183,0.8937032222747803,7.857142857142857,6,7,7,8,7
+CID men liable to break training equipment,CID men liable to break,training equipment,MEDICINE BALL,"8,4",42,7,anagram,4151.0029296875,0.2991974949836731,0.9451865553855896,17.833333333333332,6,7,8,8,7
+"Months ago, trainees resolved situation with three involved","Months ago, trainees resolved",situation with three involved,MENAGE A TROIS,"6,1,5",59,8,anagram,1632.8741455078125,0.231039896607399,0.9055856466293335,4.142857142857143,6,7,7,8,7
+A canoe I adapted for Pacific region,A canoe I adapted,pacific region,OCEANIA,7,36,7,anagram,10064.0927734375,0.36185288429260254,0.8834489583969116,4.0,6,7,9,8,7
+A ruler got mistaken for governor,a ruler got mistaken,governor,REGULATOR,9,33,6,anagram,9405.0234375,0.2254665642976761,0.8151628971099854,10.6,7,6,9,8,7
+wild about editor describing US governance?,wild about editor,describing US governance?,FEDERAL,7,43,6,container,14689.408203125,0.1954120397567749,0.9337661266326904,6.166666666666667,7,8,8,6,7
+Streetcar crossing close to you a shock,streetcar crossing close to you a,shock,TRAUMA,6,39,7,container,2278.215576171875,0.35058510303497314,0.8811807036399841,15.6,6,7,7,8,7
+Dairy product person in society fed to pet,person in society fed to pet,dairy product,CAMEMBERT,9,42,8,container,3740.781494140625,0.33841225504875183,0.8693913817405701,5.857142857142857,6,7,8,5,6
+Composer plagued by mosquitoes crossing river,plagued by mosquitoes crossing river,composer,BRITTEN,7,45,6,container,3717.806396484375,0.2697673439979553,0.8314676880836487,4.666666666666667,6,7,9,8,7
+"Australian native, Mike, visiting European Union","Mike, visiting European Union",australian native,EMU,3,48,6,container,1401.921142578125,0.27229759097099304,0.7990843653678894,6.5,7,6,8,5,6
+Waiting area for receiving you,receiving you,waiting area,FOYER,5,30,5,container,3297.0625,0.2674568295478821,0.8222558498382568,8.333333333333334,5,6,8,7,6
+"When initially in space, stare open-mouthed",when initially in space,stare open-mouthed,GAWP,4,43,6,container,248.17837524414062,0.28169360756874084,0.9626554250717163,10.0,7,8,9,6,7
+Most despicable taxi drivers blocking street,taxi drivers blocking street,most despicable,SCABBIEST,9,44,6,container,10839.609375,0.2610120475292206,0.9671646356582642,7.833333333333333,6,7,5,8,6
+"Difficult week, Grant admits","week, grant admits",difficult,AWKWARD,7,28,4,container,7599.54345703125,0.3150574564933777,0.9033394455909729,7.0,6,7,8,5,6
+"Couple aboard ship scrubbing the decks, perhaps?",couple aboard ship,"scrubbing the decks, perhaps",AT WORK,"2,4",48,7,container,1187.68408203125,0.22294320166110992,0.8310315608978271,5.5,8,7,8,6,7
+Group continue to swing in popular trend,group continue to swing,popular trend,BANDWAGON,9,40,7,charade,790.3262329101562,0.3747512102127075,0.7715194225311279,8.833333333333334,6,7,7,8,7
+Move slowly in church,in church,move slowly,INCH,4,21,4,charade,14847.3759765625,0.3310098648071289,0.8862389922142029,8.75,5,6,8,7,6
+"Firm, northeastern, solid","form, northeastern",solid,CONE,4,25,3,charade,6883.10009765625,0.15007445216178894,0.7347248196601868,11.333333333333334,5,6,8,7,6
+Heaven ultimately lasts a thousand years,ultimately lasts a thousand years,heaven,SKY,3,40,6,charade,1663.8812255859375,0.3904630243778229,0.9011849761009216,6.166666666666667,6,7,9,8,7
+Headgear attached to front of enormous cloak,headgear attatched to front of enormous,cloak,CAPE,4,44,7,charade,2120.877197265625,0.2359132617712021,0.8230785727500916,5.4,6,7,9,8,7
+Meeting prisoner with diplomacy,prisoner with diplomacy,meeting,CONTACT,7,31,4,charade,46818.42578125,0.23696990311145782,0.8429509401321411,7.666666666666667,6,7,9,8,7
+Inferior to be despicable,be despicable,inferior,BELOW,5,25,4,charade,1242.75244140625,0.30229294300079346,0.8956354260444641,7.666666666666667,6,7,7,8,7
+That woman’s family is after good food to pickle,that woman's family is after good,food to pickle,GHERKIN,7,48,9,charade,244.97877502441406,0.25784626603126526,0.8773300647735596,8.857142857142858,8,7,8,9,8
+Marshy area ahead of the German guard,marshy area ahead of the german,guard,FENDER,6,37,7,charade,860.4654541015625,0.24725238978862762,0.8703948855400085,6.4,6,7,9,8,7
+Honour a hospital department,a hospital department,honour,AWARD,5,28,4,charade,3867.59228515625,0.3699817955493927,0.7953901886940002,4.75,6,7,7,8,7
+Clue wraith in Tolkein hides,wraith in Tolkein hides,clue,HINT,4,28,5,hidden,2562.43896484375,0.325168251991272,0.79950350522995,4.25,6,7,8,8,7
+Less important vitamin — order reduced,vitamin — order reduced,less important,MINOR,5,38,6,hidden,73710.8828125,0.2286909818649292,0.8429689407348633,11.0,7,6,8,8,7
+"Vehicle seen in America, Britain","seen in America, Britain",vehicle,CAB,3,32,5,hidden,1240.1661376953125,0.33337220549583435,0.8150491714477539,7.8,5,6,7,4,5
+Contribution to hardship in Chelmsford nick,contribution to hardship in Chelmsford,nick,PINCH,5,43,6,hidden,2582.21142578125,0.2039010375738144,0.9145760536193848,5.5,6,7,8,5,6
+Partially recant one’s explicit language,partially recant one’s explicit,language,CANTONESE,9,40,5,hidden,477.4718322753906,0.3059852719306946,0.891753613948822,3.8,8,7,7,6,7
+"Some ignoramus, a proper idiot!","some ignoramus, a proper",idiot,SAP,3,31,5,hidden,731.8707275390625,0.3978589177131653,0.937761664390564,3.6,8,7,7,6,7
+Scandinavian seen in Skelda Ness,seen in skelda ness,scandinavian,DANE,4,32,5,hidden,2350.427490234375,0.2700040936470032,0.9309937953948975,9.0,5,6,8,7,6
+Meagre enemies partially concur,meagre enemies partially,concur,AGREE,5,31,4,hidden,4799.34814453125,0.23310959339141846,0.831306517124176,2.0,6,7,8,7,7
+What’s in piece arranged for organ ,what’s in piece arranged,organ,EAR,3,35,6,hidden,660.5107421875,0.31775394082069397,0.7879577279090881,9.5,6,7,8,8,7
+Bit of zinc is easily cut into,bit of zinc is easily,cut into,INCISE,6,30,7,hidden,401.6033020019531,0.17616179585456848,0.9392444491386414,20.8,6,7,7,8,7
+Voice criticism of short novel?,short novel?,voice criticism,BOO,3,31,5,deletion,3547.724853515625,0.28674647212028503,0.9599078297615051,10.75,6,7,8,8,7
+Single copy not initiated,copy not initiated,single,LONE,4,25,4,deletion,38144.25390625,0.19741733372211456,0.9977355003356934,6.75,6,7,8,8,7
+Daughter escaping peril shows passion,daughter escaping peril,passion,ANGER,5,37,5,deletion,64022.8671875,0.19804537296295166,0.8946598768234253,8.8,7,8,8,6,7
+No time for human message from story,no time for human,message from story,MORAL,5,36,7,deletion,4215.865234375,0.309924840927124,0.7288570404052734,7.2,6,7,8,5,6
+Cunning male dropping off front of procession?,male dropping off front of procession?,cunning,ARCH,4,46,7,deletion,5254.3447265625,0.2648696005344391,0.8817348480224609,11.333333333333334,8,7,8,6,7
+"Ignoring its tip, earth’s spherical","Ignoring its tip, earth",spherical,ROUND,5,35,5,deletion,582.249755859375,0.20847482979297638,0.6507110595703125,6.2,7,8,7,6,7
+Deduce Hell is without number,hell is without number,deduce,INFER,5,29,5,deletion,3486.0537109375,0.2678006589412689,0.8829142451286316,9.75,6,7,8,7,7
+Clergyman cut grass border,clergyman cut,grass border,VERGE,5,26,4,deletion,11126.9814453125,0.2969111204147339,0.8987487554550171,23.0,5,6,7,6,6
+Company cut down tree,company cut down,tree,FIR,3,21,4,deletion,16026.978515625,0.32784533500671387,0.7691934108734131,28.25,7,6,9,8,7
+Additional fuss when leader is ousted,fuss when leader is ousted,additional,OTHER,5,37,6,deletion,12476.9560546875,0.23844929039478302,0.9091795086860657,5.0,7,6,9,8,7
+Hair of the dog? Scientist may need it,hair of the dog?,scientist may need it,LAB COAT,"3,4",38,8,double_definition,777.455810546875,0.24818094074726105,0.5462591052055359,4.166666666666667,8,7,7,9,7
+Meeting of old friends in French island,French island,meeting of old friends,REUNION,7,39,7,double_definition,1299.6866455078125,0.32075902819633484,0.8069456815719604,7.833333333333333,6,7,9,8,7
+Fruit basket appearing in online joke community?,online joke community,fruit basket,PUNNET,6,48,7,double_definition,5463.16455078125,0.31253209710121155,0.7102357745170593,5.428571428571429,8,7,7,6,7
+Eat too much — deep depression?,deep depression,eat too much,GORGE,5,31,6,double_definition,800.156494140625,0.2151578962802887,0.7829080820083618,9.2,8,7,9,7,7
+Biblical character's task,biblical character,task,JOB,3,25,3,double_definition,12215.1328125,0.3262607157230377,0.7520657777786255,5.333333333333333,4,5,7,6,5
+Club employees,club,employees,STAFF,5,14,2,double_definition,389689.6875,0.3505550026893616,0.5415339469909668,6.0,5,6,7,6,6
+Game with hands — and index finger?,index finger?,Game with hands,POKER,5,35,7,double_definition,517.3263549804688,0.24666143953800201,0.7486713528633118,11.25,8,7,9,6,7
+Get down story,story,get down,LIE,3,14,3,double_definition,42137.20703125,0.3096940815448761,0.538966953754425,23.0,5,6,7,7,6
+"Straight, as might be a nun?",as might be a nun?,straight,IN ORDER,"2,5",28,6,double_definition,613.499755859375,0.179000586271286,0.8360685110092163,9.333333333333334,6,7,9,8,7
+Great time for bouncer?,bouncer?,great time,BALL,4,23,4,double_definition,627.0218505859375,0.30445849895477295,0.63375324010849,7.666666666666667,7,6,6,8,6

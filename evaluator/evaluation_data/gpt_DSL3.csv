@@ -1,0 +1,61 @@
+clue_text,wordplay,definition,answer,pattern,num_chars,num_words,clue_type,perplexity,thematic_fit,semantic_distance,polysemy,llm_wit,llm_uniqueness,llm_fairness,llm_surface_read,llm_overall,status
+Crook from headless brogue,from headless brogue,crook,ROGUE,5,26,4,deletion,1173.4078369140625,0.2805379331111908,0.8303084969520569,2.3333333333333335,6,7,8,5,6,successful
+Mark from short neckwear,from short neckwear,mark,SCAR,4,24,4,deletion,4679.5146484375,0.22466474771499634,0.7505694031715393,18.0,7,6,9,8,7,successful
+World as hearth loses its head,as hearth loses its head,World,EARTH,5,30,6,deletion,852.7463989257812,0.2616313695907593,0.839780330657959,12.666666666666666,5,6,8,7,6,successful
+Fire-setting parson losing quiet,parson losing quiet,fire-setting,ARSON,5,32,4,deletion,10935.5078125,0.1306668072938919,0.9319760203361511,17.6,6,7,8,5,6,successful
+Guardian when trans leaves transparent,when trans leaves transparent,guardian,PARENT,6,38,5,deletion,25159.572265625,0.2342698574066162,0.9622918963432312,7.333333333333333,7,8,9,6,7,successful
+Newspaper boss when creditor loses credit,when creditor loses credit,newspaper boss,EDITOR,6,41,6,deletion,5504.4638671875,0.24800880253314972,0.9373709559440613,7.4,6,7,7,8,7,successful
+Duck revealed by quilt without filling,revealed by quilt without filling,Duck,EIDER,5,38,6,deletion,6813.19384765625,0.2709926664829254,0.8180315494537354,5.4,6,7,8,8,7,successful
+Fabric from dress shortened,from dress shortened,fabric,CLOTH,5,27,4,deletion,43501.453125,0.23464083671569824,0.5668395757675171,9.333333333333334,5,6,8,7,6,successful
+"Enough, example headless",", example headless",enough,AMPLE,5,24,3,deletion,4371.181640625,0.0,0.8568529486656189,3.6666666666666665,5,6,8,7,6,successful
+"Overdue, dish served topless",", dish served topless",overdue,LATE,4,28,4,deletion,2025.9815673828125,0.3449471592903137,0.9522420167922974,6.75,6,7,8,8,7,successful
+Tree seen in tube echoes,seen in tube echoes,tree,BEECH,5,24,5,hidden,7232.4384765625,0.29445838928222656,0.9254935383796692,11.4,6,7,9,8,7,successful
+Older person found in novel derivation,found in novel derivation,older person,ELDER,5,38,6,hidden,1799.82421875,0.1804266721010208,0.8552893400192261,8.166666666666666,6,7,7,8,7,successful
+Provide food found in delicate reports,found in delicate reports,Provide food,CATER,5,38,6,hidden,5283.74609375,0.2726355493068695,0.8290497064590454,9.166666666666666,6,7,9,8,7,successful
+Root vegetable seen in opera dishes,seen in opera dishes,Root vegetable,RADISH,6,35,6,hidden,20264.134765625,0.2690274715423584,0.830812394618988,9.833333333333334,6,5,8,7,6,successful
+Flower seen in disaster relief,seen in disaster relief,Flower,ASTER,5,30,5,hidden,1604.8826904296875,0.34993791580200195,0.7949380874633789,10.0,6,7,9,8,7,successful
+"Cheer, seen in steel at end",", seen in steel at end",Cheer,ELATE,5,27,6,hidden,719.288330078125,0.31143689155578613,0.8074482679367065,10.666666666666666,5,6,7,8,6,successful
+Planetary path seen in prior bitterness,seen in prior bitterness,Planetary path,ORBIT,5,39,6,hidden,18167.337890625,0.22213375568389893,1.0067447423934937,7.666666666666667,8,7,7,6,7,successful
+Flower part seen in house pals chatting,seen in house pals chatting,flower part,SEPAL,5,39,7,hidden,9831.126953125,0.24633459746837616,0.8133583068847656,10.571428571428571,6,7,7,8,7,successful
+Builder seen in team as one,seen in team as one,builder,MASON,5,27,6,hidden,1053.681884765625,0.374828964471817,0.8308202624320984,9.5,6,7,8,5,6,successful
+Eastern relation upset,relation upset,Eastern,ORIENTAL,8,22,3,anagram,2028115.0,0.14384177327156067,0.8281938433647156,9.333333333333334,5,6,7,4,5,successful
+"Message, Meg later scrambled",", Meg later scrambled",message,TELEGRAM,8,28,4,anagram,9184.7822265625,0.3642464578151703,0.8934879899024963,6.25,5,6,8,7,6,successful
+Logical eons read wildly,eons read wildly,logical,REASONED,8,24,4,anagram,12963.4443359375,0.20100867748260498,0.8050469160079956,5.5,6,7,8,8,7,successful
+Betrayal from wild senator,from wild senator,betrayal,TREASON,7,26,4,anagram,7369.26416015625,0.2783348560333252,0.6274409294128418,6.666666666666667,7,6,7,8,7,successful
+"Nail of foot, elation strangely",", elation strangely",nail of foot,TOENAIL,7,31,5,anagram,2809.877197265625,0.3290802240371704,0.9001972675323486,6.75,6,7,7,8,7,successful
+"Drink, one medal shaken",", one medal shaken",Drink,LEMONADE,8,23,4,anagram,8029.55810546875,0.29073625802993774,0.7769207954406738,8.75,6,7,9,8,7,successful
+"Class marines, possibly","marines, possibly",Class,SEMINAR,7,23,3,anagram,9049.5537109375,0.2982882857322693,0.8572697639465332,6.0,5,6,8,7,6,successful
+Class remains scattered,remains scattered,class,SEMINAR,7,23,3,anagram,51814.921875,0.22879473865032196,0.8744427561759949,7.0,5,6,8,7,6,successful
+"Singer, note a rib reworked",", note a rib reworked",singer,BARITONE,8,27,5,anagram,2196.102294921875,0.2584572434425354,0.8656469583511353,6.4,8,7,9,6,7,successful
+"Training session, reorganised marines",", reorganised marines",training session,SEMINAR,7,37,4,anagram,8573.634765625,0.26446816325187683,0.838765025138855,6.5,6,7,8,5,6,successful
+Close finish,finish,close,END,3,12,2,double_definition,1642947.125,0.5030918717384338,0.3105754852294922,26.0,5,4,6,7,5,successful
+Cut rate,rate,cut,CLIP,4,8,2,double_definition,208974.71875,0.22047464549541473,0.8543562889099121,38.5,5,4,7,6,5,successful
+Clear grassland,grassland,clear,PLAIN,5,15,2,double_definition,23229.75390625,0.16477778553962708,0.7330901622772217,23.0,5,6,7,8,6,successful
+Clear flatland,flatland,clear,PLAIN,5,14,2,double_definition,27890.091796875,0.29352009296417236,0.5528533458709717,45.0,5,6,8,7,6,successful
+New book,book,new,NOVEL,5,8,2,double_definition,94393.8046875,0.28503644466400146,0.234022855758667,13.5,3,4,6,5,4,successful
+Media squeeze,squeeze,media,PRESS,5,13,2,double_definition,18433726.0,0.19496217370033264,0.569786548614502,15.0,6,5,8,7,6,successful
+Left wine,wine,left,PORT,4,9,2,double_definition,2543966.75,0.2314307987689972,0.6928611993789673,14.0,5,6,7,4,5,successful
+Herb factory,factory,herb,MINT,4,12,2,double_definition,23706.51953125,0.26989686489105225,0.7355993986129761,1.5,4,5,5,6,5,successful
+Penalty that's good,that's good,penalty,FINE,4,19,3,double_definition,1180.7796630859375,0.3484172224998474,0.5436266660690308,15.5,5,6,7,8,6,successful
+Lightning fastener,fastener,lightning,BOLT,4,18,2,double_definition,4285.1474609375,0.3175477981567383,0.5242236852645874,2.0,6,7,8,8,7,successful
+Ranger: gold entering fester,: gold entering fester,ranger,FORESTER,8,28,4,container,6802.390625,0.28104284405708313,0.6526511907577515,5.25,6,7,8,5,6,successful
+"Legume, round going inside grand fan",", round going inside grand fan",Legume,GROUNDNUT,9,36,6,container,10636.107421875,0.27462247014045715,0.8099504709243774,15.0,7,8,9,6,7,successful
+Jumper: excavation filling car and article,: excavation filling car and article,jumper,CARDIGAN,8,42,6,container,12841.9580078125,0.3071652054786682,0.9955080151557922,6.6,5,6,7,4,5,successful
+"Coastal flier, sailor in south-east bird beheaded",", sailor in south-east bird beheaded",coastal flier,SEABIRD,7,49,7,container,800.0626220703125,0.23885691165924072,0.512709379196167,4.5,6,7,8,5,6,successful
+"Mission gets doctor admitted to European bold, losing head","gets doctor admitted to European bold, losing head",mission,EMBASSY,7,58,9,container,13088.48828125,0.29681020975112915,0.8364253044128418,14.5,6,7,7,8,7,successful
+"Thrive, scowl visiting female, somewhat",", scowl visiting female, somewhat",thrive,FLOURISH,8,39,5,container,5765.13623046875,0.16988547146320343,0.7914324998855591,4.8,6,7,8,5,6,successful
+Woodsman finds gold in rot,finds gold in rot,woodsman,FORESTER,8,26,5,container,1551.6260986328125,0.26484665274620056,0.8768173456192017,7.8,6,7,8,8,7,successful
+Portable: trim holding apt,: trim holding apt,portable,LAPTOP,6,26,4,container,17557.9140625,0.25447824597358704,1.0641359090805054,17.25,6,7,8,5,6,successful
+"Hearing membrane, doctor visiting ear, um",", doctor visiting ear, um",hearing membrane,EARDRUM,7,41,6,container,10442.150390625,0.2831839323043823,0.41549575328826904,6.4,6,7,8,5,6,successful
+Lingering flavour following try,following try,lingering flavour,AFTERTASTE,10,31,4,charade,13313.6591796875,0.27412399649620056,0.8808605074882507,10.75,6,7,8,8,7,successful
+Rucksack support group,support group,rucksack,BACKPACK,8,22,3,charade,7005.0947265625,0.33696502447128296,0.8158397078514099,9.333333333333334,5,6,8,7,6,successful
+Flower spreader with trophy,spreader with trophy,flower,BUTTERCUP,9,27,4,charade,5518.57666015625,0.30537909269332886,0.7037140130996704,2.6666666666666665,5,6,8,7,6,successful
+Revenue: fashionable arrive,: fashionable arrive,revenue,INCOME,6,27,3,charade,119269.0859375,0.24550914764404297,0.9193792939186096,2.3333333333333335,6,5,8,7,6,successful
+Excuse a liberal one,a liberal one,excuse,ALIBI,5,20,4,charade,827.7698974609375,0.2911713123321533,0.7125969529151917,8.0,7,6,6,8,6,successful
+"Abroad, finished waters",", finished waters",abroad,OVERSEAS,8,23,3,charade,11314.6513671875,0.27048608660697937,0.8204058408737183,9.666666666666666,6,7,8,5,6,successful
+School boss: top teacher,: top teacher,school boss,HEADMASTER,10,24,4,charade,5830.9189453125,0.34892502427101135,0.48385053873062134,10.5,5,6,7,8,6,successful
+Main story: male advert with row,: male advert with row,main story,HEADLINE,8,32,6,charade,4780.796875,0.248573899269104,0.7843948006629944,5.8,7,6,8,6,6.75,successful
+Predict backing East actors,backing East actors,predict,FORECAST,8,27,4,charade,437402.59375,0.17230522632598877,0.8469590544700623,9.75,6,7,8,8,7,successful
+Measure from drink and cutlery,from drink and cutlery,measure,TEASPOON,8,30,5,charade,401.6061706542969,0.27122414112091064,0.700827419757843,8.333333333333334,6,7,8,5,6,successful
+Meal found where pasta's served,found where pasta's served,meal,REPAST,6,31,5,hidden,7714.71484375,0.24419133365154266,0.8992522358894348,9.75,5,6,8,7,6,failed
+"Place for departures, infrared entering a port",", infrared entering a port",place for departures,AIRPORT,7,46,7,container,3143.91943359375,0.29470235109329224,0.7566094398498535,11.333333333333334,8,7,8,9,8,failed

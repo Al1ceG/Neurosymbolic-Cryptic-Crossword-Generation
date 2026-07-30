@@ -1,0 +1,61 @@
+clue_text,wordplay,definition,answer,pattern,num_chars,num_words,clue_type,perplexity,thematic_fit,semantic_distance,polysemy,llm_wit,llm_uniqueness,llm_fairness,llm_surface_read,llm_overall
+Mob rage about trade restriction,mob rage about,trade restriction,EMBARGO,7,32,5,anagram,30272.15625,0.2245550900697708,0.7782654762268066,7.0,6,7,8,7,7
+Silent poet rearranged verse form,silent rearranged,verse form,SONNET,6,33,5,anagram,6203.3359375,0.19802933931350708,0.8272634744644165,7.2,6,7,8,5,6
+Strange omen reveals prediction,strange omen,prediction,OMEN,5,31,4,anagram,20994.76171875,0.2846095561981201,0.3121821880340576,2.75,6,7,8,8,7
+Painter’s note scrambled for decoration,note scrambled,decoration,ORNATE,6,39,5,anagram,649.939697265625,0.23218894004821777,0.6176838874816895,6.75,6,7,8,8,7
+Manic trio reorganised for harmony,manic trio reorganised,harmony,CONCORDIA,8,34,5,anagram,4901.72802734375,0.20642971992492676,0.8304625749588013,3.25,8,7,8,9,8
+New diary holds daily record,new diary,daily record,DIARY,5,28,5,anagram,13589.6416015625,0.29171186685562134,0.08666801452636719,15.4,5,6,7,8,6
+Weird panel forms aircraft surface,weird panel,aircraft surface,PLANE,5,34,5,anagram,111034.859375,0.27120405435562134,0.7240031361579895,9.4,6,7,8,8,7
+Fresh pear mix makes aperitif,fresh pear mix,aperitif,APERITIF,7,29,5,anagram,2150.309326171875,0.32786059379577637,0.8777250051498413,15.2,6,7,9,8,7
+Recast tales about ancient stories,recast tales,ancient stories,LATTE,5,34,5,anagram,2751.415771484375,0.3129793107509613,0.845841646194458,4.6,6,7,7,8,7
+Doctor near island paradise,doctor near,paradise,EDENIAN,7,27,4,anagram,22174.296875,0.3259459137916565,0.7325863838195801,5.0,5,6,8,7,6
+Vehicle follows small insect,Vehicle follows small,insect,SCARAB,6,28,4,charade,20838.732421875,0.28831109404563904,0.950261116027832,10.75,5,6,7,8,6
+Tree found in northern garden,northern garden,tree,NORFOLK,7,29,5,charade,1965.743408203125,0.28353503346443176,0.607824981212616,8.2,5,6,8,7,6
+Animal doctor carrying oxygen,doctor carrying oxygen,animal,VIXEN,5,29,4,charade,78165.703125,0.31665897369384766,0.9264490008354187,12.75,7,6,9,8,7
+River beside endless plain,beside endless plain,river,SEVERN,7,26,4,charade,77551.796875,0.33904585242271423,0.7319968938827515,5.333333333333333,6,7,8,8,7
+Youngster holds flower,youngster holds,flower,BLOOM,6,22,3,charade,41592.51171875,0.26784974336624146,0.8677049875259399,16.666666666666668,5,6,8,7,6
+Fish caught by man from east,man from east,fish,SALMON,7,28,6,charade,1255.37548828125,0.3337286710739136,0.8012202978134155,13.4,5,6,8,7,6
+Instrument used in grand orchestra,used in grand orchestra,instrument,PIANO,5,34,5,charade,3449.2041015625,0.21614204347133636,0.5763815641403198,8.2,4,5,6,7,5
+Drink left on table,left on table,drink,LATTE,6,19,4,charade,3124.958740234375,0.24054542183876038,0.7697725296020508,10.0,4,5,7,6,5
+Cold girl embraces nothing,Cold embraces nothing,girl,CHLOE,6,26,4,charade,82714.7734375,0.2483092099428177,0.8765738010406494,7.25,6,7,7,8,7
+Note after breakfast food,note after,breakfast food,CEREAL,6,25,4,charade,6882.93603515625,0.4351526200771332,0.851714015007019,5.5,6,7,9,8,7
+Officer keeping endless rage in check (6),keeping endless rage in check,Officer,SERGE,6,41,7,container,987.5992431640625,0.34499287605285645,0.9873178005218506,14.5,6,7,9,8,7
+Drink enclosing small coin (4),Drink enclosing small,coin,CASH,4,30,5,container,978.8676147460938,0.2824476361274719,0.9227683544158936,7.5,5,6,8,7,6
+Plant left inside huge pot (7),left inside huge pot,Plant,MAGNOLIA,7,30,6,container,1594.4798583984375,0.2763626277446747,0.9090836048126221,9.6,5,6,9,7,6
+Writer holding back new emotion (5),Writer holding back new,emotion,ANGRY,5,35,6,container,1388.8182373046875,0.2630433440208435,0.89415442943573,17.6,6,7,8,8,7
+Teacher puts energy in trouble (6),puts energy in trouble,Teacher,TUTOR,6,34,6,container,1087.5865478515625,0.28638434410095215,0.9401930570602417,7.4,7,6,8,8,7
+Ruler hiding end of sceptre in robe (7),hiding end of sceptre in robe,Ruler,MONARCH,7,39,8,container,1045.5892333984375,0.24156714975833893,0.9307486414909363,6.5,6,7,8,8,7
+Sound of bell surrounding a small farm building (5),Sound of bell surrounding a small,farm building,BARN,5,51,9,container,589.3668212890625,0.3072722554206848,0.9321687817573547,11.142857142857142,7,8,9,8,8
+Weapon’s shaft enclosing little boy (5),shaft enclosing little boy,Weapon,SPEAR,5,39,6,container,288.3629150390625,0.2758341431617737,0.6649293303489685,6.8,6,7,9,8,7
+Food store keeping old penny (6),keeping old penny,Food store,PANTRY,6,32,6,container,3397.954833984375,0.31711289286613464,0.7935272455215454,9.0,6,7,9,8,7
+Bird carrying nothing for dessert (6),carrying nothing,dessert,TORTON,6,37,6,container,1131.120849609375,0.22059664130210876,0.8542068004608154,12.5,8,7,9,6,7
+Sailor losing head gets a bird,Sailor losing head,bird,OWL,3,30,6,deletion,2741.197265625,0.26295289397239685,0.8836871385574341,17.666666666666668,7,8,8,6,7
+Traveler losing tail has fruit,Traveler losing tail,fruit,PLUM,4,30,5,deletion,14033.236328125,0.2608255445957184,0.8203694820404053,9.6,6,7,9,8,7
+No starter for athlete’s stick,athlete with no starter,stick,BAT,3,30,5,deletion,813.0986328125,0.30894190073013306,0.6699789762496948,9.75,6,7,9,8,7
+River losing head is plain,plain losing head,river,AVON,4,26,5,deletion,20820.953125,0.3070717751979828,0.9348538517951965,15.8,5,6,8,7,6
+Cut short ticket for clock sound,cut short ticket,clock sound,TIC,3,32,6,deletion,29541.390625,0.3092758357524872,0.8628863096237183,25.2,6,7,8,8,7
+Headless knight keeps position,headless knight,position,RANK,4,30,4,deletion,16411.3671875,0.2564747631549835,0.770415186882019,12.0,7,6,9,8,7
+Kingdom without head produces dessert,kingdom without head,dessert,PIE,3,37,5,deletion,36674.2265625,0.28128117322921753,0.8455941677093506,14.25,7,6,9,8,7
+Heartless chime makes bell sound,heartless chime,bell sound,DNG,3,32,5,deletion,2756.531982421875,0.2859022915363312,0.8532871007919312,18.0,6,7,9,8,7
+Old scholar losing head is clever,Old scholar losing head,clever,SAGE,4,33,6,deletion,26518.28515625,0.29515278339385986,0.7957019805908203,13.666666666666666,6,7,9,8,7
+Heartless bride shows excitement,heartless bride,shows excitement (in auction),BID,3,32,4,deletion,7918.1396484375,0.2510720193386078,0.9238594770431519,6.25,7,5,8,6,6
+Ring leader,ring,leader,BELL,4,11,2,double_definition,723228.75,0.2895984947681427,0.6352224349975586,8.5,6,5,8,7,6
+Note of praise,note,praise,LAUD,4,14,3,double_definition,3688.430908203125,0.30659395456314087,0.6800559759140015,8.0,5,6,7,6,6
+Current flower,flower,current,RIVER,5,14,2,double_definition,21245232.0,0.2746872305870056,0.7197491526603699,4.0,5,6,8,7,6
+Spring sound,sound,spring,BOUNCE,4,12,2,double_definition,327479.15625,0.26166555285453796,0.5802806615829468,17.5,7,6,8,5,6
+Duck down,duck,down,EID,3,9,2,double_definition,42837.15625,0.0,0.8662770986557007,17.0,5,4,4,6,5
+Tender offer,tender,offer,BID,4,12,2,double_definition,58483.3671875,0.24117767810821533,0.5670076012611389,17.0,5,6,8,7,6
+Light metal,light,metal,ALUMINIUM,6,11,2,double_definition,2125896.25,0.4473608732223511,0.6762008666992188,25.5,3,4,8,6,5
+Leaves work,work,leaves,QUITS,6,11,2,double_definition,45126.89453125,0.2590842843055725,0.5668320655822754,25.5,6,5,6,7,6
+Date stone,date,stone,ROCKS,5,10,2,double_definition,5060305.0,0.27141904830932617,0.7090054750442505,14.5,5,6,7,4,5
+Seal deal,seal,deal,PACT,4,9,2,double_definition,57641.60546875,0.238101989030838,0.5652889013290405,18.5,6,5,8,7,6
+Bird found in sparrowed away,found in sparrowed away,bird,ROW,3,28,5,hidden,1184.642822265625,0.2096661627292633,0.8448668122291565,11.25,6,7,9,8,7
+Drink concealed in coffee cup,concealed in coffee cup,drink,TEA,3,29,5,hidden,1294.5869140625,0.4117540419101715,0.6460393667221069,6.8,7,6,9,8,7
+Insect lurking inside scorpion nest,lurking inside scorpion nest,insect,ANT,3,35,5,hidden,1648.9627685546875,0.28339871764183044,0.5468743443489075,5.4,6,7,8,7,7
+Poet glimpsed in campy ode,glimpsed in campy ode,poet,POE,3,26,5,hidden,751.907958984375,0.19309042394161224,0.8118804693222046,2.8,6,7,8,8,7
+Metal seen within chrome alloy,seen within chrome alloy,metal,ORE,3,30,5,hidden,12639.8359375,0.4283643066883087,0.6719285845756531,7.4,5,6,8,7,6
+Tree hidden in catleaves,hidden in catleaves,tree,ELM,3,24,4,hidden,2212.2451171875,0.2383263111114502,0.8099955320358276,6.666666666666667,6,7,8,7,7
+Fish appearing in reef alone,appearing in reef alone,fish,EEL,3,28,5,hidden,21727.953125,0.31991487741470337,0.8094833493232727,6.4,7,6,9,8,7
+Tool noticed in cattle yard,noticed in cattle yard,field (archaic),LEY,3,27,5,hidden,12326.29296875,0.2963658571243286,0.7340176105499268,7.2,5,6,8,7,6
+City found inside toronto,found inside toronto,city (short for Toronto),RON,3,25,4,hidden,7954.666015625,0.2813732922077179,0.8359437584877014,8.0,5,6,8,7,6
+Bird seen in albatross’s tail,seen in albatross’s,bird (loosely flying creature),BAT,3,29,5,hidden,52.20025634765625,0.24211061000823975,0.9034562110900879,10.2,6,7,9,8,7

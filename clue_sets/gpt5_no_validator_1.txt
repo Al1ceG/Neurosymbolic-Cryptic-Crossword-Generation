@@ -1,0 +1,50 @@
+DEADLINER Read line wildly for explanation (9) anagram
+ANGEL Angel rearranged, a heavenly being (5) anagram
+SCHOOL Old monks revised form of education (6) anagram
+IRRITANT Spice mix: train hit becomes irritated (8) anagram
+AIRBNBC Riverside cabin rebuilt for vacation home (7) anagram
+GARNER Seize note in loud outburst (6) charade
+PIGEON Bird in pain almost becomes worthless (6) charade
+HAMLET Actor upset about losing head (7) charade
+BACKBENCH Supporter follows rule in legislature (9) charade
+CATGUTS Sticky substance holds up a boat (7) charade
+CALCULATOR Device from gym enclosing one class? (9) container
+LATTE Beverage from pamphlet holding tea (5) container
+PIGEON Bird imprisoned by rude man? (6) container
+BAGEL Stone enclosing gold set in ring (6) (6) container
+HITMAN Weapon kept in case for assassin (7) container
+OSLO Sailor missing head in port city (4) deletion
+EMUS Large bird gets angry without tail (4) deletion
+RAGEE Game bird missing tail makes a frenzy (5) deletion
+ASH Bird, with tail removed, is a tree (3) deletion
+MIS Lack of clarity when tip removed from MIST? (3) deletion
+TALL TALE Long story? Snake may give you one (4,4) double_definition
+REED PARTNER Woodwind player’s companion? Musician may have one (4,8) double_definition
+PHONE It might ring at home; it might ring in the theatre (5) double_definition
+CASTING Break a leg? It might get you on stage (7) double_definition
+BENCH Banker’s place to sit? Financial institution (5) double_definition
+TARIF Permit found in sTAR IFied (5) (5) hidden
+ORIO Bird found in eletanOR IOLite, briefly concealed (4) hidden
+MINT Pepper found in caRDOm IN Takeaway (4) hidden
+HITP Strong ale in ligHT IPA appears (4) hidden
+MAN Sailor found in huMAN OARdinary tale (3) hidden
+VIENNA European capital in the air, reportedly? (6) homophone
+ROBIN Bird doctor, reportedly? (5) homophone
+SURVEYOR One who gauges land value, we hear, may be sore? (8) homophone
+CHUMS Friend claims to snack, reportedly (5) (5) homophone
+SENATOR Upper chamber, we hear, loses support? (7) homophone
+MONSIGNOR Quiet monk shuffled notes for churchman (8) anagram_and_charade
+RADIO Doctor rearranges file for low-tech communication (5) anagram_and_charade
+CORNET Ring from copper tones wildly (6) anagram_and_charade
+OBSTETRIC Old books: doctor reorganised sonnet for hospital department (9) anagram_and_charade
+TREATY Contract from heartless brewer, tea mixed for agreement (6) anagram_and_charade
+REMOVE Cancel exam after end of term (6) charade_and_deletion
+SCAREIN Frighten cries after losing tail, then take in (7) charade_and_deletion
+RETIRE Stop working after cutting head off profit (7) charade_and_deletion
+DEFLATING Disappointing old duke, headless, entering battle (9) charade_and_deletion
+IRON Metal, endlessly, and sign of approval (4) charade_and_deletion
+ABRACE A bishop containing energy makes a covering (6) charade_and_container
+POPPY A quiet lion holding up priest is a national flower (7) charade_and_container
+RESTRAINT Request to hold back rant is official command (9) charade_and_container
+BIBLE Rogue holding ID becomes sacred book (6) charade_and_container
+CLAPSE Show approval as sailor surrounds river (6) charade_and_container
