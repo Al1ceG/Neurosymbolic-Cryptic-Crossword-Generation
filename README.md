@@ -103,6 +103,7 @@ where `<model_name>` is one of:
 - `gpt55`
 - `gpt4`
 - `llama3`
+- `times`
 
 To evaluate clues generated using the validator pipeline, add the `--validator` flag:
 
