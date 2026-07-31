@@ -1,5 +1,4 @@
 from evaluator.perplexity import compute_perplexity
-from evaluator.polysemy import polysemy_score
 # other metrics here
 
 

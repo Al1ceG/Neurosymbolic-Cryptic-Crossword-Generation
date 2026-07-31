@@ -203,7 +203,6 @@ class SolverState(object):
       if test_abbreviation in shorts or test_abbreviation.lower() in shorts:  
         return True
       
-      # START ALICE GRAHAM ADDITION 
       # Ask an LLM if it agrees with the abbreviation
       if self.model_abbreviation is not None:
         print("CHECKING ABBREVIATION WITH LLM")
@@ -214,7 +213,6 @@ class SolverState(object):
         ]
         response=self.model_abbreviation(prompt_parts)
         valid = 'YES' in response.upper()
-      # END ALICE GRAHAM ADDITION 
         
       if not valid:
         if len(shorts)==0:
@@ -329,7 +327,6 @@ class SolverState(object):
             action_names[-1] = action_names[-1].replace(', ', '') # Last one
             err.append(f"'{phrase}' does not suggest Action.{action_name}, but it might be {''.join(action_names)}")
 
-    # BEGIN ALICE GRAHAM ADDITION
     if self.model_action is not None:
         prompt_parts = [
             f"""In a cryptic crossword context, does the phrase "{phrase}" reasonably indicate the action "{action_name}"?""",
@@ -346,7 +343,6 @@ class SolverState(object):
             err.append(
                 f"According to an expert, '{phrase}' does not suggest Action.{action_name}"
             )
-    # END ALICE GRAHAM ADDITION
 
     if not valid:
       res['err']='; '.join(err)
@@ -536,7 +532,6 @@ class SolverState(object):
       #if len(report)>1: # ICML : one_err : TODO : REVERT!
       #  report=report[0:1]  # Strip it down to first error message
           
-    # ALICE GRAHAM: clue coverage check (check every important word from clue is used in the proof)
     if clue is not None:
       unused = self.check_proof_uses_every_word_in_clue(clue, py, fn)
       if unused:
@@ -547,7 +542,6 @@ class SolverState(object):
     return report
 
 
-# ALICE GRAHAM FUNCTION
   def check_proof_uses_every_word_in_clue(self, clue: str, py: str, fn):
     """
     Ensures every non-boring word in the cryptic clue appears in
