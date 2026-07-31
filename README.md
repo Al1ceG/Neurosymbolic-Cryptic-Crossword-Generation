@@ -7,46 +7,20 @@ This repo contains code to **generate** cryptic crossword clues and grids using 
 
 ### 1) Python setup
 
-Create and activate a virtualenv (example):
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
-```
-
 Install runtime dependencies and models:
 
 ```bash
-pip install openai omegaconf numpy python-Levenshtein torch transformers nltk spacy fasttext sentence-transformers z3-solver
-python -m spacy download en_core_web_sm
+pip install -r requirements.txt
 ```
-
-Tested with the following versions:
-~~~
-Python 3.14.5
-fasttext               0.9.3
-nltk                   3.9.4
-numpy                  2.4.6
-omegaconf              2.3.0
-openai                 2.37.0
-python-Levenshtein     0.27.3
-spacy                  3.8.13
-torch                  2.12.0
-transformers           5.8.1
-~~~
-
-
-Note: other parts of the project may require additional packages (e.g. evaluator plotting, semantic distance, etc.).
 
 ### 2) Download necessary files
 
-1. Clone repository from Deits into the `dissertation/` directory:
+1. Clone repository from Deits into the `Neurosymbolic-Cryptic-Crossword-Generation/` directory:
 git clone https://github.com/rdeits/CrypticCrosswords.jl.git
 
 2. Now move the files provided in the deits_indicators directory of my repo into the corpora/indicators directory of the cloned repo
 
-3. Download the cc.en.100.bin embeddings from HuggingFace and put in the `dissertation/` directory: 
+3. Download the cc.en.100.bin embeddings from HuggingFace and put in the `Neurosymbolic-Cryptic-Crossword-Generation/` directory: 
 https://huggingface.co/adorkin/fasttext-english-100-bin/blob/main/cc.en.100.bin
 
 
