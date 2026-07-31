@@ -13,6 +13,11 @@ Install runtime dependencies and models:
 pip install -r requirements.txt
 ```
 
+To install fasttext:
+```bash
+git clone https://github.com/facebookresearch/fastText.git
+```
+
 ### 2) Download necessary files
 
 1. Clone repository from Deits into the `Neurosymbolic-Cryptic-Crossword-Generation/` directory:
@@ -23,6 +28,7 @@ git clone https://github.com/rdeits/CrypticCrosswords.jl.git
 3. Download the cc.en.100.bin embeddings from HuggingFace and put in the `Neurosymbolic-Cryptic-Crossword-Generation/` directory: 
 https://huggingface.co/adorkin/fasttext-english-100-bin/blob/main/cc.en.100.bin
 
+4. Download the clues tsv from this link https://xd.saul.pw/data and place it in the validator/validator_from_andrews/datasets directory. (Final filepath should be validator/validator_from_andrews/datasets/xd.saul.pw/xd/clues.tsv)
 
 
 ## CORRECTNESS

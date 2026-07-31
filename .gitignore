@@ -4,3 +4,5 @@ validator/validator_from_andrews/datasets/CrosswordAnswers.tsv
 validator/validator_from_andrews/datasets/xd.saul.pw/xd/clues.tsv
 validator/validator_from_andrews/datasets/CrosswordQA/train.csv
 validator/validator_from_andrews/datasets/CrosswordQA/valid.csv
+logfiles/
+*.pyc
