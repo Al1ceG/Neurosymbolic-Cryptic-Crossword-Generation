@@ -237,9 +237,9 @@ def write_average(logfile, label, avg):
 # Single-run generators (each returns a stats dict, or (success, stats) for SMT)
 # ---------------------------------------------------------------------------
 
-def create_grid_with_llm(clue_file, logfile):
+def create_grid_with_llm(clue_file, logfile, model_name):
     start_time = time.perf_counter()
-    response = build_crossword(clues_file=clue_file)
+    response = build_crossword(clues_file=clue_file, model_name=model_name)
     end_time = time.perf_counter()
     runtime = end_time - start_time
 
@@ -423,6 +423,15 @@ def run_smt_grid_gen(clue_file, logfile, clue_set):
                   print(f"No quality solved for {clue_set}")
               logfile.write("\n\n")
 
+
+MODEL_NAMES = {
+    "gpt52": "gpt-5.2-2025-12-11",
+    "gpt55": "gpt-5.5-2026-04-23",
+    "gpt4": "gpt-4o",
+    "llama3": "meta-llama/Llama-3.3-70B-Instruct",
+}
+
+
 def parse_args():
     parser = argparse.ArgumentParser()
 
@@ -442,11 +451,24 @@ def parse_args():
         help="Which generator to run."
     )
 
+    parser.add_argument(
+        "--llm-model",
+        choices=[
+            "gpt4",
+            "gpt52",
+            "gpt55",
+            "llama3",
+        ],
+        default="gpt4",
+        help="Model to use for the standalone LLM generator."
+    )
+
     return parser.parse_args()
 
 
 def main():
     args = parse_args()
+    model_name = MODEL_NAMES[args.llm_model]
 
     os.makedirs(CLUE_DIR, exist_ok=True)
     os.makedirs("logfiles/grid_generation_results", exist_ok=True)
@@ -467,7 +489,7 @@ def main():
                 for i in range(N_RUNS):
                     print(f"\nRunning LLM on {clue_set} (run {i + 1}/{N_RUNS})")
                     logfile.write(f"\n--- Run {i + 1}/{N_RUNS} ---\n")
-                    llm_runs.append(create_grid_with_llm(clue_file, logfile))
+                    llm_runs.append(create_grid_with_llm(clue_file, logfile, model_name))
                 llm_avg = average_stats(llm_runs)
                 write_average(logfile, "LLM", llm_avg)
                 logfile.write("\n\n")

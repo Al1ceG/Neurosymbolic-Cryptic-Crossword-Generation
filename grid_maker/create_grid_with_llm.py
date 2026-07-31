@@ -3,9 +3,9 @@ from pathlib import Path
 from validator.validator_from_andrews.llm import *
 
 
-def build_crossword(clues_file="grid_maker/clues.txt"):
+def build_crossword(clues_file="grid_maker/clues.txt", model_name="gpt-5.5-2026-04-23"):
     # Load your wrapper
-    model = get_model_openai(model_name="gpt-5.5-2026-04-23", max_tokens=64000)
+    model = get_model_openai(model_name=model_name, max_tokens=64000)
 
     clues = Path(clues_file).read_text(encoding="utf-8")
 

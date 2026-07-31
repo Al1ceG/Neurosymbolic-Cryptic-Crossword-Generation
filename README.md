@@ -126,7 +126,7 @@ The script prints the evaluation statistics to the terminal and saves them to th
 
 ## GRID GENERATION
 
-The `grids.py` script runs the crossword grid generation experiments for all supported generation methods on a collection of clue sets. It evaluates each generated grid and records summary statistics.
+The `grids.py` script runs crossword grid generation experiments for all supported generation methods on a collection of clue sets. It evaluates each generated grid and records summary statistics.
 
 ### Clue Sets
 
@@ -164,13 +164,25 @@ python -m scripts.grids --method all
 Run a specific method:
 
 ```bash
-python -m scripts.grids --method llm
+python -m scripts.grids --method llm --llm-model gpt52
 python -m scripts.grids --method genxword
 python -m scripts.grids --method smt
 python -m scripts.grids --method smt-llm-1-opt
 python -m scripts.grids --method smt-llm-3-opt
 python -m scripts.grids --method smt-llm-1-noopt
 python -m scripts.grids --method smt-llm-3-noopt
+```
+
+The standalone LLM generator supports selecting the language model using the `--llm-model` argument. This option affects **only** the standalone `llm` method and **does not** affect the SMT+LLM repair methods.
+
+Supported models are:
+
+- `gpt4`
+- `gpt52`
+- `gpt55`
+- `llama3`
+
+
 ```
 
 ### Output

@@ -206,3 +206,8 @@ def main():
         f.write(f"\n=== {experiment_name} ===\n")
         for clue_type, values in experiment_stats.items():
             f.write(f"{clue_type}: {values}\n")
+
+
+
+if __name__ == "__main__":
+    main()
