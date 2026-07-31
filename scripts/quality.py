@@ -60,7 +60,7 @@ def parse_args():
     parser.add_argument(
         "--model",
         required=True,
-        choices=["gpt52", "gpt55", "gpt4", "llama3"],
+        choices=["gpt52", "gpt55", "gpt4", "llama3", "times"],
         help="Model used to generate clues.",
     )
 
@@ -83,19 +83,27 @@ def parse_args():
 def main():
     args = parse_args()
 
-    experiment_name = (
-        f"{args.model}_with_validator"
-        if args.validator
-        else f"{args.model}_no_validator"
-    )
+    if args.model != "times":
+        experiment_name = (
+            f"{args.model}_with_validator"
+            if args.validator
+            else f"{args.model}_no_validator"
+        )
 
-    clue_filename = (
-        "clues_correct.txt"
-        if args.correct_only
-        else "clues.txt"
-    )
+        clue_filename = (
+            "clues_correct.txt"
+            if args.correct_only
+            else "clues.txt"
+        )
 
-    clue_file = Path("logfiles") / experiment_name / clue_filename
+        clue_file = Path("logfiles") / experiment_name / clue_filename
+
+    else:
+        if args.validator or args.correct_only:
+            raise ValueError("--validator and --correct_only cannot be used with model='times'")
+
+        clue_file = Path("clue_sets") / "time_full_set.txt"
+        experiment_name = "the_times"
 
     if not clue_file.exists():
         raise FileNotFoundError(clue_file)
