@@ -23,12 +23,19 @@ git clone https://github.com/facebookresearch/fastText.git
 1. Clone repository from Deits into the `Neurosymbolic-Cryptic-Crossword-Generation/` directory:
 git clone https://github.com/rdeits/CrypticCrosswords.jl.git
 
-2. Now move the files provided in the deits_indicators directory of my repo into the corpora/indicators directory of the cloned repo
+2. Now move the three files provided in the deits_indicators directory of my repo into the corpora/indicators directory of the cloned repo
 
 3. Download the cc.en.100.bin embeddings from HuggingFace and put in the `Neurosymbolic-Cryptic-Crossword-Generation/` directory: 
 https://huggingface.co/adorkin/fasttext-english-100-bin/blob/main/cc.en.100.bin
 
 4. Download the clues tsv from this link https://xd.saul.pw/data and place it in the validator/validator_from_andrews/datasets directory. (Final filepath should be validator/validator_from_andrews/datasets/xd.saul.pw/xd/clues.tsv)
+
+5. Create a config.yaml file in the `Neurosymbolic-Cryptic-Crossword-Generation/` directory, and paste in your OpenAI API key.
+
+```t
+APIKey:
+  OPENAI_SECRET: "<YOUR_KEY_HERE>"
+```
 
 
 ## CORRECTNESS

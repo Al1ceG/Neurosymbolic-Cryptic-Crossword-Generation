@@ -174,8 +174,6 @@ class SolverState(object):
     act=f"assert: is_abbreviation('{phrase}', '{test_abbreviation}')"
     res, valid = dict(act=act), False
 
-
-    # START ALICE GRAHAM ADDITION
     # Take the first letter of each word in the phrase
     words = phrase.split()
     abbreviation = "".join(word[0] for word in words if word)
@@ -183,7 +181,6 @@ class SolverState(object):
     # Compare with the test abbreviation (case-insensitive)
     if (abbreviation.lower() == test_abbreviation.lower()):
       return True
-    # END ALICE GRAHAM ADDITION
 
 
     if self.abbreviations is None:
