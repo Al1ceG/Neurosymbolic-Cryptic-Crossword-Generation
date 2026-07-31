@@ -4,14 +4,12 @@ This repo contains code to **generate** cryptic crossword clues and grids using 
 
 ## SET UP
 
-- **Working directory**: run commands from the `dissertation/` folder.
 
 ### 1) Python setup
 
 Create and activate a virtualenv (example):
 
 ```bash
-cd dissertation
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
